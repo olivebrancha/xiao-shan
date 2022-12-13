@@ -1,0 +1,56 @@
+<view class='main'>
+
+  <view class='head'  >
+    <view class='first1'><image src='/images/RC.png'></image></view>
+    <view class='main_list'>
+      <view class='list1'>
+        <view class='ima' bindtap='Touch' data-touch_id='1'><image src='/images/shenghuo.png'></image></view>
+        <view class='tx'><text>运动类</text></view>
+      </view>
+      <view class='list2'>
+        <view class='ima' bindtap='Touch' data-touch_id='2'><image src='/images/xinqing.png'></image></view>
+        <view class='tx'><text>生活用品类</text></view>
+      </view>
+      <view class='list3' bindtap='Touch' data-touch_id='3'>
+        <view class='ima'><image src='/images/user-profile.png'></image></view>
+        <view class='tx'><text>卡片证件类</text></view>
+      </view>
+    </view>
+  </view>
+
+  <view class='mid' >
+    <view class='first'><text></text></view>
+    <view class='main_list'>
+      <view class='list1'>
+        <view class='ima' bindtap='Touch' data-touch_id='4'><image src='/images/dianzi.png'></image></view>
+        <view class='tx'><text>电子设备类</text></view>
+      </view>
+      <view class='list2'>
+        <view class='ima' bindtap='Touch' data-touch_id='5'><image src='/images/xuexi.png'></image></view>
+        <view class='tx'><text>学习用品类</text></view>
+      </view>
+      <view class='list3'>
+        <view class='ima' bindtap='Touch' data-touch_id='6'><image src='/images/yiwu.png'></image></view>
+        <view class='tx'><text>衣物鞋子类</text></view>
+      </view>
+    </view>
+  </view>
+  
+  <view class='mid' >
+    <view class='first'><text></text></view>
+    <view class='main_list'>
+      <view class='list1'>
+        <view class='ima' bindtap='Touch' data-touch_id='7'><image src='/images/shipin.png'></image></view>
+        <view class='tx'><text>食品类</text></view>
+      </view>
+      <view class='list2'>
+        <view class='ima' bindtap='Touch' data-touch_id='8'><image src='/images/meizhuang.png'></image></view>
+        <view class='tx'><text>美妆闲置</text></view>
+      </view>
+      <view class='list3'>
+        <view class='ima' bindtap='Touch' data-touch_id='9'><image src='/images/qita.png'></image></view>
+        <view class='tx'><text>其他</text></view>
+      </view>
+    </view>
+  </view>
+</view>

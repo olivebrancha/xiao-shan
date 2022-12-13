@@ -1,0 +1,8 @@
+{
+  "usingComponents": {},
+  "backgroundTextStyle":"light",
+  "navigationBarBackgroundColor": "#FF0000",
+  "navigationBarTitleText": "评论",
+  "navigationBarTextStyle":"white",
+  "backgroundColorTop": "primary"
+}

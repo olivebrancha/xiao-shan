@@ -1,0 +1,8 @@
+{
+  "usingComponents": {},
+  "backgroundTextStyle":"light",
+  "navigationBarBackgroundColor": "#FF0000",
+  "navigationBarTitleText": "呼应寻物欢迎您！",
+  "navigationBarTextStyle":"white",
+  "backgroundColorTop": "primary"
+}

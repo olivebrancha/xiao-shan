@@ -1,0 +1,7 @@
+{
+  "usingComponents": {},
+  "navigationBarBackgroundColor": "#FF0000",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "聊天页面",
+  "enablePullDownRefresh": true
+}

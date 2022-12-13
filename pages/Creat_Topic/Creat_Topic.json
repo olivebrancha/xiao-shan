@@ -1,0 +1,8 @@
+{
+  "usingComponents": {},
+  "backgroundTextStyle":"light",
+  "navigationBarBackgroundColor": "#FF0000",
+  "navigationBarTitleText": "话题发布",
+  "navigationBarTextStyle":"white",
+  "backgroundColorTop": "primary"
+}
